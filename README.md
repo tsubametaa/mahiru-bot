@@ -1,6 +1,6 @@
 # Mahiru Bot
 
-Bot Discord yang memantau channel YouTube Pak RT Unyul dan mengirim notifikasi ke Discord ketika ada live stream atau video baru.
+Bot Discord yang memantau channel YouTube Pak RT Unyul dan mengirim notifikasi ke Discord kalo ada live stream atau video baru.
 
 ## Fitur
 
